@@ -6,8 +6,11 @@ Football, being one of the most popular sports globally, serves as a unifying fo
 Our dataset, sourced from football-data.co.uk, comprises fixture details and results for each season, including statistics such as goals scored, shots on target, fouls committed, and more. With this rich dataset, we seek to achieve the following objectives:
 
 Analyze each team's success over the years and identify contributing factors.
+
 Explore correlations between game statistics (e.g., shots on target, corner kicks) and team performance.
+
 Investigate the influence of home-field advantage on a team's win percentage.
+
 Aditionally, analyze the 15/16 season where a non big 6 club won the league.
 
 ## Conclusion
